@@ -1,0 +1,26 @@
+name: popmart_register
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/water_drop.png
+    - assets/slide_pic1.png
+    - assets/slide_pic2.jpg
+    - assets/slide_pic3.png
+    - assets/Event.jpg
+    - assets/profile.jpg
